@@ -7,5 +7,5 @@ class Config:
     BOT_OWNER = os.environ.get("abasof_015")
     BOT_USERNAME = os.environ.get("AzeSongRobot")
     PLAYLIST_NAME = os.environ.get("azesongplaylist")
-    GROUP = os.environ.get("GROUP") 
+    GROUP = os.environ.get("oldsupport") 
     PLAYLIST_ID = int(os.environ.get("-1001877177311"))
